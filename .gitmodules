@@ -1,0 +1,3 @@
+[submodule "MinecraftMappings"]
+	path = MinecraftMappings
+	url = https://github.com/p0t4t0sandwich/MinecraftMappings
